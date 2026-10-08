@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "INA851") (type "KiCad") (uri "${KIPRJMOD}/libraries/INA851RGTR/footprints.pretty") (options "") (descr ""))
+	(lib (name "ADS1220") (type "KiCad") (uri "${KIPRJMOD}/libraries/ADS1220IPW/footprints.pretty") (options "") (descr ""))
+	(lib (name "Wago 2601 1102") (type "KiCad") (uri "${KIPRJMOD}/libraries/LIB_2601-1102/KiCad") (options "") (descr ""))
+	(lib (name "project_lcsc_parts") (type "KiCad") (uri "${KIPRJMOD}/libraries/project_lcsc_parts.pretty") (options "") (descr ""))
+)
